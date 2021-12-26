@@ -1,0 +1,15 @@
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\bin\Debug\net6.0\work1.md.exe
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\bin\Debug\net6.0\work1.md.deps.json
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\bin\Debug\net6.0\work1.md.runtimeconfig.json
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\bin\Debug\net6.0\work1.md.dll
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\bin\Debug\net6.0\ref\work1.md.dll
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\bin\Debug\net6.0\work1.md.pdb
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\obj\Debug\net6.0\work1.md.csproj.AssemblyReference.cache
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\obj\Debug\net6.0\work1.md.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\obj\Debug\net6.0\work1.md.AssemblyInfoInputs.cache
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\obj\Debug\net6.0\work1.md.AssemblyInfo.cs
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\obj\Debug\net6.0\work1.md.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\obj\Debug\net6.0\work1.md.dll
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\obj\Debug\net6.0\ref\work1.md.dll
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\obj\Debug\net6.0\work1.md.pdb
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\controlwork\work1.md\obj\Debug\net6.0\work1.md.genruntimeconfig.cache
