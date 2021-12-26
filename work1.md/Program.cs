@@ -41,12 +41,12 @@ void PrintRandArr(int[] array)
 {
         for (int i = 0; i < array.Length; i++)
         {
-           array[i] = new Random().Next(1, 30);
+           array[i] = new Random().Next(1, 50);
            Console.Write(array[i] +" ");
         }
 }
-int[] arr = new int[10];
 
+int[] arr = new int[20];
 PrintRandArr(arr);
-printArr(arr);
+Console.WriteLine();
 SelectChet(arr);
